@@ -20,14 +20,14 @@
 
 1.  Clone the repository from GitHub:
 ```
-git clone https://github.com/yourusername/fruit-website
+git clone https://github.com/dracoignis-000/adminhub.com.git
 ```
 
 3.  Navigate to the project directory:
 <img src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="70">
 
 ```
-cd fruit-website
+cd adminhub.com
 ```
 
 3.  Open the index.html file in your preferred web browser.
@@ -39,9 +39,7 @@ cd fruit-website
 
 The website includes the following pages:
 
--   Homepage: This page welcomes users to the website and provides links to the about page and fruit catalog page.
--   About Page: This page provides information about the website and its purpose.
--   Fruit Catalog Page: This page showcases different types of fruits and allows users to view details about each fruit.
+-   Homepage: This page welcomes users to the website and provides links to the about page and fruit catalog page..
 
 To navigate between pages, use the links in the header of each page.
 
@@ -49,7 +47,7 @@ To navigate between pages, use the links in the header of each page.
 ---
 
 
-The fruit images used in the website were sourced from non copyright database. The website design was created using HTML and custom CSS.
+The user images used in the website were sourced from non copyright database. The website design was created using HTML and custom CSS.
 
 ## License    <img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="50">
 ---
